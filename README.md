@@ -1,18 +1,18 @@
-# Snippets Cursos 💻
+# Course Snippets 💻
 
-## Sobre o Repositório
-Este repositório é o meu ambiente de treinamento contínuo e técnico. Ele centraliza as resoluções de desafios de código, *katas* e exercícios práticos propostos por plataformas de ensino e trilhas de conhecimento extracurriculares.
+## About the Repository
+This repository is my continuous technical training environment. It centralizes solutions for coding challenges and practical exercises from learning platforms and extracurricular study tracks.
 
-O foco aqui é o domínio de sintaxe, algoritmos e estruturas de dados. O código contido nesta base não reflete projetos de engenharia complexos, mas sim a prática isolada de fundamentos essenciais para a construção de uma base lógica sólida.
+The focus here is mastering syntax, algorithms, and data structures. The code in this repository does not reflect complex engineering projects, but rather the isolated practice of essential fundamentals to build a solid logical foundation.
 
-## Arquitetura de Organização
-A estrutura foi projetada para ser rasa e de fácil navegação via terminal, organizada por provedor de conteúdo e escopo de estudo:
+## Repository Architecture
+The structure was designed to be shallow and easy to navigate via the terminal, organized by content provider and study scope:
 
-`plataforma/nome-do-curso/capXX-nome-do-desafio/arquivo.extensao`
+`platform/course-name/chXX-challenge-name/file.extension`
 
-* **Plataforma:** A origem do treinamento (ex: sololearn, udemy, etc).
-* **Nome do Curso:** A trilha de conhecimento específica.
-* **Capítulo/Desafio:** O escopo isolado da resolução, garantindo que projetos com ambientes virtuais (`venv`) não conflitem entre si.
+* **Platform:** The training source (e.g., Coursera, Udemy, LinkedIn, etc.).
+* **Course Name:** The specific learning path.
+* **Chapter/Challenge:** The isolated scope of the solution, ensuring that projects with virtual environments (`venv`) do not conflict with each other.
 
-## Stack Tecnológico
+## Tech Stack
 * Python
